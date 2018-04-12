@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
 	"name": "CodiceFiscale",
 	"version": "1.0.0",
@@ -6,3 +7,13 @@
 	"contributors": [],
 	"dependencies": {}
 }
+=======
+{
+	"name": "CodiceFiscale",
+	"version": "1.0.0",
+	"keywords": ["util", "functional", "server", "client", "browser"],
+	"author": "francesco.fortunato",
+	"contributors": [],
+	"dependencies": {}
+}
+>>>>>>> 7117f809134770c4283cc92d0bcc3c8aa3b5368b
